@@ -18,18 +18,3 @@ To understand what makes a password strong and test it using online password str
 ## 🧠 Conclusion
 Strong passwords significantly improve account security...
 
----
-
-## 🖼️ Password Strength Test Screenshots
-
-### 1. `password_456`
-![password_456](password_456.png)
-
-### 2. `p@ssw0rd`
-![p@ssw0rd](p@ssw0rd.png)
-
-### 3. `Cyber#S3cur3!`
-![Cyber#S3cur3!](Cyber#S3cur3!.png)
-
-### 4. `123456`
-![123456](123456.png)
